@@ -1,0 +1,79 @@
+table,
+thead,
+tbody,
+th,
+tr {
+    font-size: larger;
+    margin: auto;
+    margin-top: 15px;
+    padding: 30px;
+    width: 5vh;
+}
+
+.str {
+    background-color: rgb(210 222 218);
+}
+
+.std {
+    background-color: blue;
+}
+
+.sbutton {
+    margin: 5px;
+    padding: 7px;
+    width: 80px;
+}
+
+.search {
+    margin: 25px;
+    margin-left: 50px;
+    margin-top: 35px;
+    width: 250px;
+    padding: 10px;
+}
+
+.nav {
+    margin-left: 900px;
+    margin-bottom: 15px;
+}
+
+.navp {
+    margin: 7px;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.sel {
+    margin-left: 18px;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.flx {
+    display: flex;
+}
+
+.btn {
+    margin-left: 10px;
+    padding: 6px;
+    background-color: #cdd1ca;
+    border: 1px solid grey;
+}
+
+
+.tdd {
+    padding-right: 5vh;
+    padding-left: 9px;
+    ;
+}
+
+input[type="checkbox"] {
+    transform: scale(1.5);
+}
+
+.inn {
+    padding: 4px;
+    width: 28vh;
+    height: 4vh;
+    background-color: #dbf1ec;
+}
